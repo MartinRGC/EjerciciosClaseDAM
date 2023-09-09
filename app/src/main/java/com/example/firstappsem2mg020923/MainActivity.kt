@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
     override fun onDestroy() {
         super.onDestroy()
         Log.i(tag, "MainActivity--> onDestroy")
-        //hola world//
+        //hola world  dxdxdxdx//
 
     }
 }
